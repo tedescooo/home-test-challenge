@@ -1,0 +1,10 @@
+common/BalanceEntry.class
+page/IncomePage.class
+test/ExpenseTest.class
+page/BasePage.class
+page/ExpensePage.class
+test/IncomeTest.class
+page/BalancePage.class
+page/MainPage.class
+common/Categories.class
+test/BaseTest.class
